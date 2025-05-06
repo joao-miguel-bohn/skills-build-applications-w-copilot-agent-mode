@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-d_0d=lrtorl0+i1m@)*eqk=(9*yc%%!@8_%-j&xn_x4oa^m0a1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'scaling-rotary-phone-g9wg7grwwx7cw799-8000.app.github.dev']
 
 
 # Application definition
